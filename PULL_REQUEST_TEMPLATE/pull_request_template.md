@@ -1,5 +1,6 @@
 ## ¿Por qué se hizo? 🤠
-🔗 Link de tarjeta en Taiga: [Título de tarjeta](https://taiga.lazarillo.app/project/desarrollo/us/)
+Fix #
+
 ### Descripción: ...
 
 ## ¿Qué se hizo? 🧰
